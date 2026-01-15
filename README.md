@@ -90,7 +90,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Next steps 
 
-* Create a new markdown file in this repository. You can call it `about-me.md` and add some information about yourself using markdown syntax. You can include things like:
+* Create a new branch in this repository called 'about-me'.
+* Create a new markdown file in this repository called `about-me.md` and add some information about yourself using markdown syntax. You can include things like:
   * Your name and where you are from
   * Your research interests
   * Your personal interests
